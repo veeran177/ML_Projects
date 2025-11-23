@@ -1,4 +1,5 @@
-----------------------------------------------------✈️ Airline Fare Prediction – End-to-End Data Science Project--------------------------------------------------------
+Airline Fare Prediction – End-to-End Data Science Project
+
 A Real-World Machine Learning Project on Travel Domain (EaseMyTrip Dataset)
 1. Problem Overview
 Airline ticket prices are dynamic. They depend on multiple factors such as demand, route, airline carrier, time of travel, number of stops, and even seasonality. Predicting flight fares with high accuracy is a multi-factor regression problem used widely in the travel industry for:
