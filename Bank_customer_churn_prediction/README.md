@@ -1,32 +1,25 @@
-🏦 Bank Customer Churn Prediction (ML Classification Project)
+Bank Customer Churn Prediction (ML Classification Project)
 
 Customer churn is one of the biggest challenges faced in the banking sector. Retaining an existing customer is 5x cheaper than acquiring a new one.
 This project uses Machine Learning techniques to predict whether a customer is likely to leave the bank, enabling proactive retention strategies.
 
 This repository contains a clean, analysis-first, ML pipeline to understand churn behavior and build predictive models.
 
-📁 Project Structure
+Project Structure
 Bank_customer_churn_prediction/
-│
 ├── Bank_customer_churn_prediction_system.ipynb   # Main notebook
 ├── Bank_churn.csv                                 # Dataset
-├── README.md
-└── assets/                                        # Visuals (optional)
+├── README.md                                       
 
-🎯 Objective
+Objective
 
 Analyze customer behaviour
-
 Identify which factors cause churn
-
 Build ML models to predict customer churn
-
 Compare model performance
-
 Provide actionable insights
 
-📌 Dataset Description
-
+Dataset Description
 The dataset contains 10,000 bank customers with features like:
 
 Feature	Description
@@ -78,6 +71,7 @@ Gradient Boosting	Boosting algorithm
 XGBoost	Advanced boosting
 SVM	Margin-based classifier
 KNN	Distance-based learning
+
 📈 4. Model Evaluation
 
 Evaluation metrics include:
@@ -100,6 +94,8 @@ Confusion Matrix
 📉 ROC Curves
 ![ROC Curves](assets/roc_curves.png)
 
+Feature importance
+<img width="855" height="570" alt="image" src="https://github.com/user-attachments/assets/c735aa0c-f7d2-45b7-abaf-260adf576e51" />
 
 (Add these from your notebook too.)
 
